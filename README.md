@@ -1,1 +1,1 @@
-# Dart_Ternary_Operator
+# Easy examples on how the ternary operator operates.
